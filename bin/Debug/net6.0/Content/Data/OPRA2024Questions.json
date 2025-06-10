@@ -1,0 +1,85 @@
+{
+  "questions": [
+    {
+      "questionText": "Which medication is first-line for treating hypertension in the elderly?",
+      "options": ["Amlodipine", "Lisinopril", "Metoprolol", "Losartan"],
+      "correctAnswerIndex": 0,
+      "explanation": "Amlodipine is often recommended for its tolerability in older adults.",
+      "category": "Clinical"
+    },
+    {
+      "questionText": "What is the maximum daily dose of paracetamol for adults?",
+      "options": ["2g", "3g", "4g", "5g"],
+      "correctAnswerIndex": 2,
+      "explanation": "The maximum daily dose of paracetamol for adults is 4g. Exceeding this may cause liver toxicity.",
+      "category": "Dispensing"
+    },
+    {
+      "questionText": "Which of the following is a Schedule 8 controlled drug?",
+      "options": ["Codeine", "Morphine", "Paracetamol", "Ibuprofen"],
+      "correctAnswerIndex": 1,
+      "explanation": "Morphine is classified as a Schedule 8 (controlled) drug due to its high potential for abuse.",
+      "category": "Law"
+    },
+    {
+      "questionText": "What is the appropriate counseling for a patient starting metformin?",
+      "options": [
+        "Take with meals to minimize GI effects",
+        "Take on empty stomach",
+        "Take before bedtime only",
+        "Take with alcohol to increase absorption"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Metformin should be taken with meals to minimize gastrointestinal side effects.",
+      "category": "Counselling"
+    },
+    {
+      "questionText": "What is the recommended storage temperature for most medications?",
+      "options": [
+        "Below 25°C",
+        "Below 30°C",
+        "Below 35°C",
+        "Below 40°C"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Most medications should be stored below 25°C in a cool, dry place unless specifically stated otherwise.",
+      "category": "Dispensing"
+    },
+    {
+      "questionText": "Which of the following antibiotics is most likely to cause tendon damage?",
+      "options": [
+        "Amoxicillin",
+        "Ciprofloxacin",
+        "Erythromycin",
+        "Doxycycline"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Fluoroquinolones like ciprofloxacin can increase the risk of tendon damage, particularly in elderly patients.",
+      "category": "Clinical"
+    },
+    {
+      "questionText": "How long must Schedule 8 drug records be kept?",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "5 years"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Schedule 8 drug records must be kept for 3 years from the date of last entry.",
+      "category": "Law"
+    },
+    {
+      "questionText": "What is the most appropriate counseling point for a patient starting warfarin?",
+      "options": [
+        "Take with plenty of water",
+        "Avoid all green vegetables",
+        "Monitor for unusual bleeding",
+        "Take only in the morning"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Patients on warfarin should monitor for signs of unusual bleeding or bruising as these could indicate overanticoagulation.",
+      "category": "Counselling"
+    }
+  ]
+}

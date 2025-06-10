@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Gemfibrozil is used to treat which condition?",
+        "options": ["Hyperlipidaemia", "Hyperglycaemia", "Hyperaldosteronism", "Hypertension"],
+        "correctAnswer": 0,
+        "explanation": "Gemfibrozil is used to treat hyperlipidaemia (high levels of fats in the blood)."
+    },
+    {
+        "question": "What is the usual range of hydrochlorothiazide daily dose for an adult?",
+        "options": ["0.5 - 1 mg", "2 - 5 mg", "6.25 - 25 mg", "50 - 100 mg"],
+        "correctAnswer": 2,
+        "explanation": "The usual range for hydrochlorothiazide is 6.25 - 25 mg daily for adults."
+    },
+    {
+        "question": "Where are alpha-1 adrenoreceptors primarily located?",
+        "options": ["Arterioles", "Bronchioles", "Atria", "Cardiac ventricles"],
+        "correctAnswer": 0,
+        "explanation": "Alpha-1 adrenoreceptors are primarily located in arterioles."
+    },
+    {
+        "question": "What is the maximum daily dose of paracetamol for adults?",
+        "options": ["2g", "3g", "4g", "5g"],
+        "correctAnswer": 2,
+        "explanation": "The maximum daily dose of paracetamol for adults is 4g. Exceeding this may cause liver toxicity."
+    },
+    {
+        "question": "Which medication is first-line for treating hypertension in the elderly?",
+        "options": ["Amlodipine", "Lisinopril", "Metoprolol", "Losartan"],
+        "correctAnswer": 0,
+        "explanation": "Amlodipine is often recommended for its tolerability in older adults."
+    },
+    {
+        "question": "What is the effect of parathyroid hormone?",
+        "options": [
+            "Increased mobilisation of calcium from bone",
+            "Decreased renal tubular reabsorption of calcium",
+            "Decreased resorption of phosphate from bone",
+            "Decreased excretion of phosphate"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Parathyroid hormone increases the mobilisation of calcium from bone."
+    },
+    {
+        "question": "Which ONE of the following is NOT used for treatment of epilepsy?",
+        "options": ["Clonazepam", "Oxazepam", "Diazepam", "Lorazepam"],
+        "correctAnswer": 1,
+        "explanation": "Oxazepam is primarily used for anxiety, not epilepsy."
+    },
+    {
+        "question": "What is the primary pharmacological effect of isoprenaline?",
+        "options": [
+            "Blocks alpha adrenoceptors",
+            "Stimulates beta adrenoceptors",
+            "Releases noradrenaline from noradrenergic nerves",
+            "Blocks dopaminergic receptors"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Isoprenaline primarily stimulates beta adrenoceptors."
+    },
+    {
+        "question": "Which measure is used to monitor the effectiveness of enoxaparin therapy?",
+        "options": [
+            "Enoxaparin blood level",
+            "International Normalised Ratio (INR)",
+            "Platelet count",
+            "Antifactor Xa"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Antifactor Xa levels are used to monitor enoxaparin therapy effectiveness."
+    },
+    {
+        "question": "What is the mode of action of phenytoin?",
+        "options": [
+            "Sodium channel blockade",
+            "Binds to synaptic vesicle protein 2A",
+            "Binds to voltage-dependent calcium channels",
+            "Inhibits glutamate release"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Phenytoin works by blocking sodium channels."
+    }
+]

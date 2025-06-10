@@ -1,0 +1,50 @@
+[
+  {
+    "QuestionText": "Which medication is first-line for treating hypertension in the elderly?",
+    "Options": [
+      "Amlodipine",
+      "Lisinopril",
+      "Metoprolol",
+      "Losartan"
+    ],
+    "CorrectAnswerIndex": 0,
+    "Explanation": "Amlodipine is often recommended for its tolerability in older adults.",
+    "Category": "Clinical"
+  },
+  {
+    "QuestionText": "What is the maximum daily dose of paracetamol for adults?",
+    "Options": [
+      "2g",
+      "3g",
+      "4g",
+      "5g"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Explanation": "The maximum daily dose of paracetamol for adults is 4g. Exceeding this may cause liver toxicity.",
+    "Category": "Dispensing"
+  },
+  {
+    "QuestionText": "Which of the following antibiotics is most appropriate for treating community-acquired pneumonia?",
+    "Options": [
+      "Amoxicillin",
+      "Flucloxacillin",
+      "Nitrofurantoin",
+      "Erythromycin"
+    ],
+    "CorrectAnswerIndex": 0,
+    "Explanation": "Amoxicillin is the first-line treatment for community-acquired pneumonia in adults.",
+    "Category": "Clinical"
+  },
+  {
+    "QuestionText": "What is the recommended storage temperature for most medicines?",
+    "Options": [
+      "Below 0°C",
+      "Between 2-8°C",
+      "Below 25°C",
+      "Below 30°C"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Explanation": "Most medicines should be stored below 25°C in a cool, dry place unless specifically stated otherwise.",
+    "Category": "Dispensing"
+  }
+]

@@ -1,0 +1,15 @@
+/project/sandbox/user-workspace/bin/Debug/net7.0/Content/Data/OPRA2024Questions.json
+/project/sandbox/user-workspace/bin/Debug/net7.0/PharmaQuest
+/project/sandbox/user-workspace/bin/Debug/net7.0/PharmaQuest.deps.json
+/project/sandbox/user-workspace/bin/Debug/net7.0/PharmaQuest.runtimeconfig.json
+/project/sandbox/user-workspace/bin/Debug/net7.0/PharmaQuest.dll
+/project/sandbox/user-workspace/bin/Debug/net7.0/PharmaQuest.pdb
+/project/sandbox/user-workspace/obj/Debug/net7.0/PharmaQuest.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/obj/Debug/net7.0/PharmaQuest.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/obj/Debug/net7.0/PharmaQuest.AssemblyInfo.cs
+/project/sandbox/user-workspace/obj/Debug/net7.0/PharmaQuest.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/obj/Debug/net7.0/PharmaQuest.dll
+/project/sandbox/user-workspace/obj/Debug/net7.0/refint/PharmaQuest.dll
+/project/sandbox/user-workspace/obj/Debug/net7.0/PharmaQuest.pdb
+/project/sandbox/user-workspace/obj/Debug/net7.0/PharmaQuest.genruntimeconfig.cache
+/project/sandbox/user-workspace/obj/Debug/net7.0/ref/PharmaQuest.dll
